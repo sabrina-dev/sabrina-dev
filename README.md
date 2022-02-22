@@ -25,7 +25,5 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 
-#### Rede Sociais!
 
-[![Linkedin: Romulo](https://img.shields.io/badge/romulo-code-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-code/)](https://www.linkedin.com/in/romulo-code/)
 
